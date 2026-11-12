@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets Terminal",
+  "description": "Comprehensive global markets overview and financial terminal with live tickers, interactive charts, stock and crypto heatmaps, asset screeners, currency strength matrix, and macroeconomic calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
